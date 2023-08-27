@@ -1,0 +1,32 @@
+{
+   
+    "aqeena": {
+        "name": "آقینه",
+        "number": 12,
+        "songs": [
+            {
+                "songname": "گلنار جان",
+                "url": "audio/aqeena/audio-01.mp3"
+            },
+            {
+                "songname": "پری جان",
+                "url": "audio/aqeena/audio-02.mp3"
+            }
+            
+        ]
+    },
+    "qadeemi": {
+        "name": "قدیمی",
+        "number": 8,
+        "songs": [
+            {
+            "songname": "اوزبیک باله",
+            "url": ""},
+            {
+            "songname": "بو زمان قیز لری",
+            "url": ""}
+        ]
+    },
+    "message": {
+    "title": "بو صحیفه گه خوش کیلدینگیز!"}
+}

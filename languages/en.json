@@ -1,0 +1,33 @@
+{
+    
+    "aqeena": {
+        "name": "aqeena",
+        "number": 12,
+        "songs": [
+            {
+                "songname": "golnarjan",
+                "url": "audio/aqeena/audio-01.mp3"
+            },
+            {
+                "songname": "pari jan",
+                "url": "audio/aqeena/audio-02.mp3"
+            }
+            
+        ]
+    },
+    "qadeemi": {
+        "name": "qadeemi",
+        "number": 8,
+        "songs": [
+            {
+            "songname": "uzbek bala",
+            "url": ""},
+            {
+            "songname": "bo zaman qizlari",
+            "url": ""}
+        ]
+    },
+    "message": {
+    "title": "Welcome to my page!"
+    }
+}
